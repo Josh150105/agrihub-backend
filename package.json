@@ -17,7 +17,13 @@
     "security:audit": "npm audit",
     "security:fix": "npm audit fix"
   },
-  "keywords": ["agriculture", "farmers", "tamil-nadu", "weather", "schemes"],
+  "keywords": [
+    "agriculture",
+    "farmers",
+    "tamil-nadu",
+    "weather",
+    "schemes"
+  ],
   "author": "AgriHub Team",
   "license": "MIT",
   "dependencies": {
@@ -33,6 +39,7 @@
     "hpp": "^0.2.3",
     "jsonwebtoken": "^9.0.3",
     "ml-regression-simple-linear": "^3.0.1",
+    "mongodb": "^7.1.0",
     "mongoose": "^8.23.0",
     "node-cache": "^5.1.2",
     "node-cron": "^3.0.3",
